@@ -1,0 +1,10 @@
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\bin\Debug\IPChat.exe
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\bin\Debug\IPChat.pdb
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\bin\Debug\IPChat.xml
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.Resources.resources
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.vbproj.GenerateResource.Cache
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.exe
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.xml
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.pdb
+C:\Users\Micheal\AppData\Local\Temporary Projects\IPChat\obj\Debug\IPChat.frmIPChat.resources
